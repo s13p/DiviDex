@@ -3805,7 +3805,7 @@ background-color:  var(--bg-matata-color);
   flex-direction: row;
   height: 1000;
   flex: 1;
-  justify-content:space-evenly;
+  justify-content:end;
   align-items: center;
 
   display: flex;
@@ -3985,8 +3985,9 @@ background-color:  var(--bg-matata-color);
 .div-block-39 {
   grid-column-gap: 12px;
   display: flex;
-  width: 80vw;
-  justify-content: space-evenly;
+  width: 70vw;
+  justify-content: end;
+  margin-right:10vw;
 }
 
 .div-block-40 {
